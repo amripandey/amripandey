@@ -1,35 +1,41 @@
-<h1>
-  👋 Hi there
-  <br />
-  <br />
-  🎓 I'm Amrit Pandey !! 
-</h1>
+# 👋 Hi there
+  
+## 🎓 I'm Amrit Pandey !! 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&width=435&lines=Amrit+Pandey)](https://git.io/typing-svg)
-<ul list-style-type:disc; >
-  <li> 🔍You can find my project here portfolio.</li>
-  <li> 👷I'm currently working on my projects.</li>
-  <li> ✍️I'm currently studying Computer engineering</li>
-  <li> 😊I'm like to learn different skills and stuff. 
-  <li> 😅Fun fact i speak 3 languages (English,Nepali,Hindi)</li>
-  </ul>
-  <h2>
-  skills
-  </h2>
-  <ul>
-  <li>Python ,C ,Javascript</li>
-  <li>HTML ,CSS ,Bootstrap ,Tailwind</li>
-  <li>PHP ,Mysql</li>
-  <li>Public Speaking</li>
-  </ul>
-  <h2>descrption</h2>
-  Hi i'm Amrit Pandey, a passionate self-taught web developer and a freelance software engineer from Nepal. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-  <br />
-  <br />
-  I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-<h2>Things I code With</h2>
-<h2>
-Where to find me
-</h2>
 
 
+   - 🔍You can find my project here portfolio.
+   - 👷I'm currently working on my projects.
+   - ✍️I'm currently studying Computer engineering
+   - 😊I'm like to learn different skills and stuff. 
+   - 😅Fun fact i speak 3 languages (English,Nepali,Hindi)
+  
+  ## Skills
+  
+  - Python ,C ,Javascript
+  - HTML ,CSS ,Bootstrap ,Tailwind
+  - PHP ,Mysql
+  - Public Speaking
+  
+  ## Description
+  Hi i'm Amrit Pandey, a passionate self-taught web developer and a freelance software engineer from Nepal. My passion for software lies with dreaming up   ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+  
+  I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing     happened through open-source.
+## Things I code With
+<p align="left"> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
+</p>
+
+## Where to find me
+<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="holisitc_developer | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   
