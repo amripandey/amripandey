@@ -1,5 +1,6 @@
 <h1>
   👋 Hi there
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&width=435&lines=Amrit+Pandey)](https://git.io/typing-svg)
   <br />
   <br />
   🎓 I'm Amrit Pandey !! 
