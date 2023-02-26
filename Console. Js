@@ -1,2 +1,2 @@
-Console. Log("tbis is the github" );
+Console.log("this is the github" );
 Console.log(" help")
