@@ -37,6 +37,8 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amripandey&theme=vue&ring=EB5454&background=EBEBEB)](https://git.io/streak-stats)
+
 ## Where to find me
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><!---https://www.linkedin.com/in/amrit-pandey-864140205/-->
 <img align="left" alt="holisitc_developer | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
