@@ -37,6 +37,10 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=amripandey&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amripandey&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amripandey&theme=vue&ring=EB5454&background=EBEBEB)](https://git.io/streak-stats)
 
 ## Where to find me
