@@ -1,7 +1,4 @@
-# 👋 Hi there
-
-![](https://github.com/amripandey/amripandey/blob/main/assets/giphy2.gif)
-![](https://github.com/amripandey/amripandey/blob/main/assets/giphy3.gif)
+# 👋 Hi
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
   
