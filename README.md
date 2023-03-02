@@ -7,11 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&width=435&lines=Amrit+Pandey)](https://git.io/typing-svg)
 
 
-   - 🔍You can find my project here portfolio.
-   - 👷I'm currently working on my projects.
-   - ✍️I'm currently studying Computer engineering
-   - 😊I'm like to learn different skills and stuff. 
-   - 😅Fun fact i speak 3 languages (English,Nepali,Hindi)
+   - 🔍You can find my project here [Portfolio.](https://amritportfolio.netlify.app)
+   - 👷I'm currently working on my [Projects.](https://github.com/amripandey?tab=repositories)
+   - ✍️I'm currently studying Computer engineering in Nepal.
+   - 😊I'm like to learn different skills and stuff.
+   - 😅Fun fact i can speak 3 languages only (English,Nepali,Hindi)
   
   ## Skills
   
