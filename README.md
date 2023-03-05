@@ -6,6 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&width=435&lines=Amrit+Pandey)](https://git.io/typing-svg)
 
+ ## Description
+  Hi I'm Amrit Pandey, a passionate self-taught web developer and a freelance software engineer from Nepal. My passion for software lies with dreaming up   ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+  
+  I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing     happened through open-source.
 
    - 🔍You can find my project here [Portfolio.](https://amritportfolio.netlify.app)
    - 👷I'm currently working on my [Projects.](https://github.com/amripandey?tab=repositories)
@@ -19,11 +23,7 @@
   - HTML ,CSS ,Bootstrap ,Tailwind
   - PHP ,Mysql
   - Public Speaking
-  
-  ## Description
-  Hi i'm Amrit Pandey, a passionate self-taught web developer and a freelance software engineer from Nepal. My passion for software lies with dreaming up   ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-  
-  I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing     happened through open-source.
+
 ## Things I code With
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
