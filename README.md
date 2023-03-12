@@ -49,13 +49,13 @@
 
 <br/>
 
-<h2 align="center"> 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+<!-- <h2 align="center"> 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2> 
 
 <p align="center">
     
 <a href="https://github.com/amripandey/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=amripandey">
+    <img src="https://komarev.com/ghpvc/?username=amripandey"> 
 </a>
     <a href="https://github.com/amripandey?tab=followers">
         <img src="https://img.shields.io/github/followers/amripandey?label=Followers&style=social" alt="GitHub Badge">
@@ -64,4 +64,4 @@
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/amripandey/count.svg" />
-</p>
+</p> -->
