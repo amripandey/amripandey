@@ -4,7 +4,9 @@
   
 ## 🎓 I'm Amrit Pandey !! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&width=435&lines=Amrit+Pandey)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira&colors=F85D7F,F8D866,F85D7F&speed=100&pause=40&size=30&center=false&vCenter=true&width=800&height=70&lines=Amrit+Pandey;Software+Engineer;Web+Developer;Always+Learning..."></a>
+
+<!---[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&width=435&lines=Amrit+Pandey)](https://git.io/typing-svg)--->
 
  ## Description
   Hi I'm Amrit Pandey, a passionate self-taught web developer and a freelance software engineer from Nepal. My passion for software lies with dreaming up   ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
